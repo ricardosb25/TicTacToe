@@ -10,5 +10,8 @@ function play(cell){
         else{
             player="x"
         }
-    }
+    }    
 };
+function restart(){
+    window.location.reload()
+}
