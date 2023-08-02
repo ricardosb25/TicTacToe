@@ -1,3 +1,3 @@
 # TicTacToe(Jogo da Velha)
-//em produção
-versão 0.3
+//in production
+version 0.3
